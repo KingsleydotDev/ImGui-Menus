@@ -25,4 +25,30 @@ deadcell dx9
 desolver dx9
 ![ ](https://i.imgur.com/I8BYf0K.png)
 
-TBC
+
+divinity dx9
+![ ](https://i.imgur.com/HiTd2qC.png)
+
+
+enQ dx9
+![ ](https://i.imgur.com/z0uPpwt.png)
+
+
+Evicted dx9
+![ ](https://i.imgur.com/eVb5STl.png)
+
+
+evo dx9
+![ ]()
+
+evolve dx9
+![ ]()
+
+
+
+
+
+
+
+
+
