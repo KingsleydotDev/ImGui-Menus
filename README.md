@@ -86,9 +86,20 @@ infinity dx9
 ![ ](https://i.imgur.com/m7mqlag.png)
 
 
+interwebz v2 dx9
+![ ](https://i.imgur.com/vx2u1hh.png)
 
 
+king gizzard dx11
+![ ](https://i.imgur.com/lY9HkA5.png)
 
+
+king gizzard v2 dx11
+![ ]()
+
+
+Laisve.me dx9
+[ ](https://i.imgur.com/AiLowNC.png)
 
 
 
