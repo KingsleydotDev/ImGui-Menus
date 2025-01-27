@@ -87,7 +87,7 @@ michael conors 1011 dx9
 
 
 Misterio evicted dx9
-![ ](https://i.imgur.com/XhBeoA0.png)
+![ ](https://i.imgur.com/Hexy5xq.png)
 
 
 Misterio Orthodox dx11
