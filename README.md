@@ -2,16 +2,9 @@
 Collection of custom ImGui menus DirectX9, DirectX11
 
 Previews:
-Absend (kovis) dx9
-![ ](https://i.imgur.com/KliSHdD.png)
-
 
 Absend Project dx9
 ![ ](https://i.imgur.com/LHZKcHq.png)
-
-
-changer dx9
-![ ](https://i.imgur.com/Mtf2KQa.png)
 
 
 claritytipa dx9
@@ -26,20 +19,12 @@ desolver dx9
 ![ ](https://i.imgur.com/I8BYf0K.png)
 
 
-divinity dx9
-![ ](https://i.imgur.com/HiTd2qC.png)
-
-
 enQ dx9
 ![ ](https://i.imgur.com/z0uPpwt.png)
 
 
 Evicted dx9
 ![ ](https://i.imgur.com/eVb5STl.png)
-
-
-evo dx9
-![ ]()
 
 
 evolve dx9
@@ -54,16 +39,8 @@ evrope neverlose last dx9
 ![ ](https://i.imgur.com/LqzxYNT.png)
 
 
-evrope pandora uno dx9
-![ ](https://i.imgur.com/r3jV4a3.png)
-
-
 evrope weave dx9
 ![ ](https://i.imgur.com/RxSAMpL.png)
-
-
-exodus imgui menu dx11
-![ ](https://i.imgur.com/95XSW2k.png)
 
 
 EXTERIUM dx11
@@ -72,11 +49,6 @@ EXTERIUM dx11
 
 godtap dx9
 ![ ](https://i.imgur.com/COmcSmU.png)
-
-
-ImGui menu dx9
-![ ](https://i.imgur.com/ClqSww4.png)
-
 
 ImGui menu v2 dx9
 ![ ](https://i.imgur.com/8A8rrhe.png)
@@ -95,35 +67,35 @@ king gizzard dx11
 
 
 king gizzard v2 dx11
-![ ]()
+[ ]()
 
 
 Laisve.me dx9
-[ ](https://i.imgur.com/AiLowNC.png)
+![ ](https://i.imgur.com/AiLowNC.png)
 
 
 LamantineSDK ImGui dx9
-[ ](https://i.imgur.com/W0wSLDN.png)
+![ ](https://i.imgur.com/W0wSLDN.png)
 
 
 michael conors 0302 dx9
-[ ](https://i.imgur.com/2qR64i4.png)
+![ ](https://i.imgur.com/2qR64i4.png)
 
 
 michael conors 1011 dx9
-[ ](https://i.imgur.com/NdRyxSn.png)
+![ ](https://i.imgur.com/NdRyxSn.png)
 
 
 Misterio evicted dx9
-[ ](https://i.imgur.com/XhBeoA0.png)
+![ ](https://i.imgur.com/Hexy5xq.png)
 
 
 Misterio Orthodox dx11
-[ ](https://i.imgur.com/Y0dsL88.png)
+![ ](https://i.imgur.com/Y0dsL88.png)
 
 
 Misterio Skeet Fire.cc dx11
-[ ](https://i.imgur.com/1hGrJGU.png)
+![ ](https://i.imgur.com/1hGrJGU.png)
 
 
 
